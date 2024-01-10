@@ -1,5 +1,5 @@
-# Sales-Analysis
-ECommerce Sales Analysis  Using Power Bi Dashboard 
+# ECommerce Sales Analysis Using Power Bi Dashboard
+
 
 The owner of the Madhav Store wants us to help them create a dashboard to track and analyze their online sales across India. 
 
